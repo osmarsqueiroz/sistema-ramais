@@ -1,0 +1,8 @@
+Sistema de ramais.
+
+O sistema tem por objetivo mostrar para o funcionario qual o numero do ramal da pessoa procurada.
+Basiciamente o sistema terá que cadastrar todos os ramais, funcionarios, empresas
+A empresa sao basicamente 3 (busca cliente, solucoes industriais, doutores da web).
+Cada funcionario tem um cargo e esta vinculado a pelo menos 1 ramal.
+
+Funcionario, ramais,empresa,cargo
